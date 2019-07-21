@@ -1,4 +1,5 @@
 import random;
+import sys;
 
 #Code to learn variables
 #Declare multiple variables and assign them values
