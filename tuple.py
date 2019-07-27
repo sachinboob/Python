@@ -14,3 +14,9 @@ tuple2 = ("shivani","vaijayanti")
 tuple3 = tuple1 + tuple2
 
 print(tuple3)
+
+#Below code print tuple3 three times
+print(tuple3*3)
+
+#Belo code throws error
+print(tuple3 + 5)
