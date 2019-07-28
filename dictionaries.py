@@ -1,5 +1,3 @@
-import sys;
-
 students = {"Sachin" : 45, "Abhijeet": 55, "Ganesh" : 67};
 
 print("Length of students dictionary :- " + str(len(students)))

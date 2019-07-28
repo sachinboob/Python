@@ -1,5 +1,3 @@
-import sys
-
 tuple1 = ("sachin","abhijeet","ganesh")
 
 print(tuple1)
