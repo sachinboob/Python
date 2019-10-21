@@ -1,1 +1,5 @@
-.vscode/launch.json
+/*.vscode
+/*.idea
+/*.log
+/*.project
+/*.pydevproject
