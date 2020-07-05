@@ -6,6 +6,7 @@ print("Length of students dictionary :- " + str(len(students)))
 
 print("Keys in the students dictionary ", students.keys())
 print("Items in the students dictionary ", students.items())
+print("Values in the students dictionary ", students.values())
 
 print("Sachin :- ", students.get("Sachin"))
 print("Ganesh :- ", students["Ganesh"])
