@@ -35,4 +35,8 @@ print("var2 reference count ={}".format(sys.getrefcount(var2)))
 print("var1 reference count ={}".format(sys.getrefcount(var1)))
 print("var2 reference count ={}".format(sys.getrefcount(var2)))
 
+print("var1 from globals = {}".format(globals()['var1']))
+print("var2 from globals = {}".format(globals()['var2']))
+
+print("All globals ----------------------------->")
 print(globals())
